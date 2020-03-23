@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+    margin: 200px auto;
+    text-align: center;
+    
+}
+
+#div{
+    font-size: 100px;
+    text-transform: uppercase;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    height: 110px;
+    width: 80%;
+    margin: 0 auto;
+}
+#clock{
+    background-color: black;
+    font-size: 200px;
+    color:white;
+    height: 240px;
+    width: 80%;
+    margin: 0 auto;
+}
